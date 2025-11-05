@@ -33,7 +33,7 @@ Files
 
 Details, troubleshooting, and customization tips are in `RARITY_SYSTEM_IMPLEMENTATION.md` (same folder).
 
-## 💾 Download
+## 💾 Download Original
 
 https://github.com/communityox/ox_inventory/releases/latest/download/ox_inventory.zip
 
